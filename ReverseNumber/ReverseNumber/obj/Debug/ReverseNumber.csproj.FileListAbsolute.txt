@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.pdb
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.pdb
