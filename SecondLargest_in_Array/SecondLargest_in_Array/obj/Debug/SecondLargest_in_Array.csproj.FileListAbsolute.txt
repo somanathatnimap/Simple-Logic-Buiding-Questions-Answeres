@@ -1,8 +1,0 @@
-C:\Users\Nimap\Desktop\Logical Questions Sol'n\SecondLargest_in_Array\SecondLargest_in_Array\bin\Debug\SecondLargest_in_Array.exe.config
-C:\Users\Nimap\Desktop\Logical Questions Sol'n\SecondLargest_in_Array\SecondLargest_in_Array\bin\Debug\SecondLargest_in_Array.exe
-C:\Users\Nimap\Desktop\Logical Questions Sol'n\SecondLargest_in_Array\SecondLargest_in_Array\bin\Debug\SecondLargest_in_Array.pdb
-C:\Users\Nimap\Desktop\Logical Questions Sol'n\SecondLargest_in_Array\SecondLargest_in_Array\obj\Debug\SecondLargest_in_Array.csproj.AssemblyReference.cache
-C:\Users\Nimap\Desktop\Logical Questions Sol'n\SecondLargest_in_Array\SecondLargest_in_Array\obj\Debug\SecondLargest_in_Array.csproj.SuggestedBindingRedirects.cache
-C:\Users\Nimap\Desktop\Logical Questions Sol'n\SecondLargest_in_Array\SecondLargest_in_Array\obj\Debug\SecondLargest_in_Array.csproj.CoreCompileInputs.cache
-C:\Users\Nimap\Desktop\Logical Questions Sol'n\SecondLargest_in_Array\SecondLargest_in_Array\obj\Debug\SecondLargest_in_Array.exe
-C:\Users\Nimap\Desktop\Logical Questions Sol'n\SecondLargest_in_Array\SecondLargest_in_Array\obj\Debug\SecondLargest_in_Array.pdb
