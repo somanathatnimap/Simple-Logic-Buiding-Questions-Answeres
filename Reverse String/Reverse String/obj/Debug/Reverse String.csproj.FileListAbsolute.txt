@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Reverse String\Reverse String\bin\Debug\Reverse String.exe.config
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Reverse String\Reverse String\bin\Debug\Reverse String.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Reverse String\Reverse String\bin\Debug\Reverse String.pdb
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Reverse String\Reverse String\obj\Debug\Reverse String.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Reverse String\Reverse String\obj\Debug\Reverse String.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Reverse String\Reverse String\obj\Debug\Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Reverse String\Reverse String\obj\Debug\Reverse String.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Reverse String\Reverse String\obj\Debug\Reverse String.pdb
