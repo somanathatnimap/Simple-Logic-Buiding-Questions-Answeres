@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Palindrome_string2\Palindrome_string2\bin\Debug\Palindrome_string2.exe.config
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Palindrome_string2\Palindrome_string2\bin\Debug\Palindrome_string2.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Palindrome_string2\Palindrome_string2\bin\Debug\Palindrome_string2.pdb
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Palindrome_string2\Palindrome_string2\obj\Debug\Palindrome_string2.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Palindrome_string2\Palindrome_string2\obj\Debug\Palindrome_string2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Palindrome_string2\Palindrome_string2\obj\Debug\Palindrome_string2.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Palindrome_string2\Palindrome_string2\obj\Debug\Palindrome_string2.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Palindrome_string2\Palindrome_string2\obj\Debug\Palindrome_string2.pdb

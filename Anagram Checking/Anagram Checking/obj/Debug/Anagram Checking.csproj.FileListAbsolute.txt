@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Anagram Checking\Anagram Checking\bin\Debug\Anagram Checking.exe.config
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Anagram Checking\Anagram Checking\bin\Debug\Anagram Checking.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Anagram Checking\Anagram Checking\bin\Debug\Anagram Checking.pdb
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Anagram Checking\Anagram Checking\obj\Debug\Anagram Checking.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Anagram Checking\Anagram Checking\obj\Debug\Anagram Checking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Anagram Checking\Anagram Checking\obj\Debug\Anagram Checking.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Anagram Checking\Anagram Checking\obj\Debug\Anagram Checking.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\Anagram Checking\Anagram Checking\obj\Debug\Anagram Checking.pdb
