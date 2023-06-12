@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\DublicateNumber\DublicateNumber\bin\Debug\DublicateNumber.exe.config
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\DublicateNumber\DublicateNumber\bin\Debug\DublicateNumber.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\DublicateNumber\DublicateNumber\bin\Debug\DublicateNumber.pdb
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\DublicateNumber\DublicateNumber\obj\Debug\DublicateNumber.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\DublicateNumber\DublicateNumber\obj\Debug\DublicateNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\DublicateNumber\DublicateNumber\obj\Debug\DublicateNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\DublicateNumber\DublicateNumber\obj\Debug\DublicateNumber.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\DublicateNumber\DublicateNumber\obj\Debug\DublicateNumber.pdb

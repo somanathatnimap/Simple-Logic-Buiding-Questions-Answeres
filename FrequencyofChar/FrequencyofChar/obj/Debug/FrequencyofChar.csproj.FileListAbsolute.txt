@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\FrequencyofChar\FrequencyofChar\bin\Debug\FrequencyofChar.exe.config
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\FrequencyofChar\FrequencyofChar\bin\Debug\FrequencyofChar.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\FrequencyofChar\FrequencyofChar\bin\Debug\FrequencyofChar.pdb
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\FrequencyofChar\FrequencyofChar\obj\Debug\FrequencyofChar.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\FrequencyofChar\FrequencyofChar\obj\Debug\FrequencyofChar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\FrequencyofChar\FrequencyofChar\obj\Debug\FrequencyofChar.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\FrequencyofChar\FrequencyofChar\obj\Debug\FrequencyofChar.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\FrequencyofChar\FrequencyofChar\obj\Debug\FrequencyofChar.pdb

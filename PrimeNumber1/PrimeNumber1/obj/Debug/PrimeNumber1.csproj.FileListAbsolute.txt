@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\PrimeNumber1\PrimeNumber1\bin\Debug\PrimeNumber1.exe.config
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\PrimeNumber1\PrimeNumber1\bin\Debug\PrimeNumber1.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\PrimeNumber1\PrimeNumber1\bin\Debug\PrimeNumber1.pdb
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\PrimeNumber1\PrimeNumber1\obj\Debug\PrimeNumber1.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\PrimeNumber1\PrimeNumber1\obj\Debug\PrimeNumber1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\PrimeNumber1\PrimeNumber1\obj\Debug\PrimeNumber1.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\PrimeNumber1\PrimeNumber1\obj\Debug\PrimeNumber1.exe
+C:\Users\Nimap\Desktop\Logical Questions Sol'n\PrimeNumber1\PrimeNumber1\obj\Debug\PrimeNumber1.pdb
