@@ -12,9 +12,7 @@ namespace Logicals
     {
         public static void Main(string[] args)
         {
-            Func<int, double> squre = x => Math.Sqrt(x);
-            Console.WriteLine(squre(16));
-            Console.ReadLine();
+            
 
         }
     }
@@ -199,5 +197,7 @@ interface IA
             c.PrintB();
             Console.ReadLine();
         }
-        
+        Func<int, double> squre = x => Math.Sqrt(x);
+            Console.WriteLine(squre(16));
+            Console.ReadLine();
  */
