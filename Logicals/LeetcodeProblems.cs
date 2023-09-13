@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlTypes;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -9,16 +13,22 @@ namespace Logicals
 {
     internal class LeetcodeProblems
     {
+        enum Week
+        {
+            Monday,
+            Tuesday
+        }
        static void Main(string[] args)
         {
-            //1*2*3*4
-            int fact = 1;
-           for(int i = 1; i <= 4; i++)
+            int a=(int)Week.Monday;
+            Console.WriteLine(a);
+            IEnumerable<int> list=new List<int>() { 1,2,3,4,5,5};
+            List<int> list1 = new List<int>() { 1, 2, 3, 4, 5, 5 };
+            
+            foreach(int i in list)
             {
-                fact = fact * i;
+                Console.WriteLine(i);
             }
-            Console.WriteLine(fact);
-
             Console.ReadLine();
         }
     }
@@ -162,4 +172,68 @@ int[] arr = { 1, 2, 3, 4, 5, 6, 7,8 };
             {
                 Console.WriteLine("Not Anagram string");
             }
+string str="soma";
+        char ch;
+        for(int i=str.Length-1;i>=0;i--)
+        {
+            ch=str[i];
+            str=str+ch;
+            //str1=str1+str[i];
+        }
+        Console.WriteLine(str);
+   public static void Main(string[] args)
+    {
+       string s1="JavaProgrammer";
+       string s2=s1+s1;
+       string s3="";
+       char[] ch=s2.ToCharArray();
+       for(int i=4;i<s1.Length+4;i++){
+           s3=s3+ch[i];
+       }
+       Console.WriteLine(s3);
+    }
+   int[] arr = { 2, 5, 1, 6, 3, 9 };
+            int min = int.MaxValue;
+            int max = int.MinValue;
+            int temp = 0;
+            for(int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i] > max)
+                {
+                    max = arr[i];
+                }
+                 if (arr[i] < min)
+                {
+                    min = arr[i];
+                }
+                temp = max;
+                max = min;
+                min= temp;
+            }
+            Console.ReadLine();
+
+  int[] arr = {3,4,5,1,2,6,7,3 };
+            int min = 0;
+            for(int i = 0; i < arr.Length; i++)
+            {
+                for(int j = i+1; j < arr.Length; j++)
+                {
+                    if (arr[i] > arr[j])
+                    {
+                        arr[j] = arr[i];
+                    }
+                }
+            }
+            foreach(int i in arr)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadLine();
+ Hashtable hashtable = new Hashtable();
+            hashtable.Add(1, "soma");
+            hashtable.Add(2, "mama");
+
+            Dictionary<int, int> dic = new Dictionary<int, int>();
+            dic.Add(1, 1);
+            dic.Add(2, 2);
  */
