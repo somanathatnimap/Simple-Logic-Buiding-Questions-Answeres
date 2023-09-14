@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Logicals.LeetcodeProblems</StartupObject>
+    <StartupObject>Logicals.DailyPractice</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BestTimeTobuyStock.cs" />
+    <Compile Include="DailyPractice.cs" />
     <Compile Include="LeetcodeProblems.cs" />
     <Compile Include="MajorityElements.cs" />
     <Compile Include="patterns.cs" />

@@ -13,15 +13,9 @@ namespace Logicals
 {
     internal class LeetcodeProblems
     {
-        enum Week
-        {
-            Monday,
-            Tuesday
-        }
        static void Main(string[] args)
         {
-            int a=(int)Week.Monday;
-            Console.WriteLine(a);
+            
             IEnumerable<int> list=new List<int>() { 1,2,3,4,5,5};
             List<int> list1 = new List<int>() { 1, 2, 3, 4, 5, 5 };
             
@@ -236,4 +230,12 @@ string str="soma";
             Dictionary<int, int> dic = new Dictionary<int, int>();
             dic.Add(1, 1);
             dic.Add(2, 2);
+
+ enum Week
+        {
+            Monday,
+            Tuesday
+        }
+int a=(int)Week.Monday;
+            Console.WriteLine(a);
  */
